@@ -1,5 +1,18 @@
 <h1>NexHealth QuickStart</h1>
 
+If you're looking for the fastest way to test syncing with EHR systems - without writing code - this is the place to start.
+
+**Want to skip the guide?**
+Jump straight to the [NexHealth Postman Collection](https://docs.nexhealth.com/reference/introduction)
+
+**Looking for full API docs or production setup?**
+Check out the [NexHealth Developer Portal](https://developers.nexhealth.com/signup) for authentication, endpoints, and real-world examples.
+
+**Prefer video?**
+We’ve got a Quickstart walkthrough in 3 minutes and a deeper dive on retry logic, errors, and mapping.
+
+This repository accompanies [NexHealth's Quickstart Guide](https://developers.nexhealth.com/signup)
+
 ![app](frontend-app.png)
 
 - [Getting started](#getting-started)

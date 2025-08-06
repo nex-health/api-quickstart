@@ -21,6 +21,7 @@ This repository accompanies [NexHealth's Quickstart Guide](https://developers.ne
 - [Configuration](#configuration)
 - [Installation](#installation)
 - [Starting the Node server and Frontend app](#starting-the-node-server-and-frontend-app)
+- [Performance](#performance)
 
 ## Getting started
 
@@ -129,3 +130,13 @@ npm run start
 ```
 
 If everything was set up correctly, you should be able to access the UI at the following url: http://localhost:3000/
+
+## Performance
+
+- On-Premise Systems (e.g., Dentrix, Eaglesoft, Open Dental): 
+  - Read cycles: every 10–15 minutes
+  - Write actions: typically under 30 seconds
+
+- Cloud Systems:
+  - Read: varies based on data type and system
+  - Write: most write actions complete in 30–60 seconds

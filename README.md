@@ -3,7 +3,9 @@
 If you're looking for the fastest way to test syncing with EHR systems - without writing code - this is the place to start.
 
 **Want to skip the guide?**
-Jump straight to the [NexHealth Postman Collection](https://docs.nexhealth.com/reference/introduction)
+Jump straight to the NexHealth Postman Collection:
+
+[<img src="https://run.pstmn.io/button.svg" alt="Run In Postman" style="width: 128px; height: 32px;">](https://god.gw.postman.com/run-collection/19774779-358d4afa-f4b1-4aac-8167-2d73f9a92882?action=collection%2Ffork&source=rip_markdown&collection-url=entityId%3D19774779-358d4afa-f4b1-4aac-8167-2d73f9a92882%26entityType%3Dcollection%26workspaceId%3D67bf5f45-40d8-4daf-a34c-b9572c949471)
 
 **Looking for full API docs or production setup?**
 Check out the [NexHealth Developer Portal](https://developers.nexhealth.com/signup) for authentication, endpoints, and real-world examples.
